@@ -1,4 +1,4 @@
-# Hulu2.0
+# Hulu 2.0
 
 ## Demo
 
